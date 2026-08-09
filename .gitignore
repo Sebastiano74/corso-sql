@@ -1,0 +1,10 @@
+# File database (se non vuoi caricarlo)
+*.db
+
+# File temporanei
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Eventuali file di configurazione
+.vscode/
