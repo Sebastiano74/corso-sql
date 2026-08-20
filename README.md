@@ -5,10 +5,12 @@ Esercizi svolti durante il corso di SQL con database Northwind.
 ## Lezioni completate
 - ✅ Lezione 1: SELECT base (03/08/2026)
 - ✅ Lezione 2: SELECT DISTINCT (09/08/2026)
+- ✅ Lezione 3: ORDER BY (10/08/2026)
 
 ## Struttura
 - `01_SELECT_base/` - Selezione base di colonne e tabelle
 - `02_SELECT_DISTINCT/` - Eliminare duplicati con DISTINCT
+- `03_ORDER_BY/` - Ordinare risultati con ORDER BY, ASC e DESC
 - `northwind.db` - Database di esempio
 
 ## Strumenti
