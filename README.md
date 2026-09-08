@@ -10,6 +10,7 @@ Esercizi svolti durante il corso di SQL con database Northwind.
 - ✅ Lezione 5: AND e OR (24/08/2026)
 - ✅ Lezione 6: IN e NOT (25/08/2026)
 - ✅ Lezione 7: LIKE con % e _ (07/09/2026)
+- ✅ Lezione 8: Operatori e AS (08/09/2026)
 
 ## Struttura
 - `01_SELECT_base/` - Selezione base di colonne e tabelle
@@ -19,6 +20,7 @@ Esercizi svolti durante il corso di SQL con database Northwind.
 - `05_AND_OR/` - Combinare condizioni con AND e OR
 - `06_IN_NOT/` - Liste di valori con IN e negazioni con NOT
 - `07_LIKE/` - Cercare pattern con LIKE, % e _
+- `08_Operatori_e_AS/` - Concatenazione, calcoli matematici e alias
 - `northwind.db` - Database di esempio
 
 ## Strumenti
